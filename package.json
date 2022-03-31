@@ -10,5 +10,9 @@
   },
   "volta": {
     "node": "16.14.2"
+  },
+  "dependencies": {
+    "@vuetify/vite-plugin": "^1.0.0-alpha.10",
+    "vuetify": "^3.0.0-alpha.12"
   }
 }
