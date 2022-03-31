@@ -1,6 +1,5 @@
 import {defineComponent} from 'vue';
-// @ts-ignore
-import {VBtn} from "vuetify/lib/components";
+import {VBtn} from "@/node_modules/vuetify/lib/components";
 
 export default defineComponent({
   render() {
